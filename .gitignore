@@ -1,0 +1,8 @@
+tags
+.tags
+*.pyc
+.idea/
+/.idea
+build/
+__pycache__
+.mypy_cache
